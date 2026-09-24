@@ -1,6 +1,8 @@
 # Detection Scenario Platform (DSP)
 
-**Release 1.1.0** — Operational traffic execution (host direct + webshell remote), traffic profiles, evidence export, manual verification templates, E2E harness.
+> **Historical development repository.** The current canonical DSP implementation and operator documentation are maintained in [xdr-labs/xdr-poc-script](https://github.com/xdr-labs/xdr-poc-script) and at **https://dsp.xdr.ooo/**. Do not use this repository as the current release source.
+
+This repository preserves earlier DSP architecture and implementation work. Its package metadata and historical documentation may not match the current product release.
 
 | Release docs | |
 |--------------|--|
