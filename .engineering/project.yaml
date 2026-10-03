@@ -9,9 +9,9 @@ engineering_system:
 project:
   name: xdr-labs__detection-scenario-platform
   type: python
-  maturity: development
-  user_facing: false
-  primary_user_surface: none
+  maturity: maintenance
+  user_facing: true
+  primary_user_surface: cli
 domains:
 - core
 platforms:
